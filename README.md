@@ -9,14 +9,14 @@ This Python script enables you to effortlessly send emails. By simply providing 
    **Create & use app passwords**
    Important: To create an app password, you need 2-Step Verification on your Google Account.
    
-   1. Go to your [Google Account](https://myaccount.google.com/).
-   2. Select Security.
-   3. Under "How you sign in to Google," select 2-Step Verification.
-   4. At the bottom of the page, select App passwords.
-   5. Enter a name that helps you remember where you’ll use the app password.
-   6. Select Generate.
-   7. To enter the app password, follow the instructions on your screen. The app password is the 16-character code that generates on your device.
-   8. Select Done.
+   - Go to your [Google Account](https://myaccount.google.com/).
+   - Select Security.
+   - Under "How you sign in to Google," select 2-Step Verification.
+   - At the bottom of the page, select App passwords.
+   - Enter a name that helps you remember where you’ll use the app password.
+   - Select Generate.
+   - To enter the app password, follow the instructions on your screen. The app password is the 16-character code that generates on your device.
+   - Select Done.
 
    If you’ve set up 2-Step Verification but can’t find the option to add an app password, it might be because:
 
